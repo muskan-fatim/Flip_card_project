@@ -34,7 +34,10 @@ This is a simple Islamic knowledge quiz featuring a flip card that presents a qu
 - Modify `index.js` to change or add questions and answers.
 - Edit `styles.css` to adjust the design.
 - Replace `favicon.ico` with your own icon if needed.
+- 
+## contribute
 
+Feel free to contribute 
 
 ## Author
 [Muskan] - Developed with ❤️
